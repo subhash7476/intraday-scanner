@@ -1,0 +1,7 @@
+streamlit
+upstox-python-sdk==2.4.0
+pandas
+numpy
+plotly
+vectorbt
+python-telegram-bot
