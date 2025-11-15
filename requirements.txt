@@ -2,6 +2,14 @@ streamlit
 upstox-python-sdk==2.4.0
 pandas
 numpy
-plotly
+pmdarima
+arch
+pywt
+xgboost
+tensorflow
+torch
+hmmlearn
 vectorbt
 python-telegram-bot
+plotly
+ta
